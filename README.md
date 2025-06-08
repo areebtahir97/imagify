@@ -71,8 +71,6 @@ imagify/
 
   <h2>🧑‍💻 Developed By</h2>
   <p><strong>Areeb Tahir</strong><br/>
-    <a href="https://github.com/your-username">GitHub</a> |
-    <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
   </p>
 
   <h2>📌 License</h2>
