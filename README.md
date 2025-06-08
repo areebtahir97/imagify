@@ -36,13 +36,22 @@
   <h2>🖼️ Screenshots</h2>
 
   <h3>🏠 Home Page</h3>
-  <img src="screenshots/home.png" alt="Home Page" />
+  <img src="./Screenshots/Screenshot 2025-06-08 184436.png" alt="Home Page" />
 
   <h3>🖌️ Image Generation</h3>
-  <img src="screenshots/generate.png" alt="Generate Image" />
+  <img src="./Screenshots/Screenshot 2025-06-08 184519.png" alt="Generate Image" />
+
+  <h3>🖌️ Image Generation Result</h3>
+  <img src="./Screenshots/Screenshot 2025-06-08 184532.png" alt="Generate Image" />
+
+  <h3>🔐 Login Page</h3>
+  <img src="./Screenshots/Screenshot 2025-06-08 181928.png" alt="Login Page" />
+
+  <h3>📝 Sign Up Page</h3>
+  <img src="./Screenshots/Screenshot 2025-06-08 181938.png" alt="Sign Up Page" />
 
   <h3>💳 Buy Credits Page</h3>
-  <img src="screenshots/buy.png" alt="Buy Credits Page" />
+  <img src="./Screenshots/Screenshot 2025-06-08 181652.png" alt="Buy Credits Page" />
 
   <h2>📂 Folder Structure</h2>
   <pre><code>
