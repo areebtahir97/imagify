@@ -2,8 +2,6 @@
 
   <p><strong>Imagify</strong> is a full-stack MERN application that allows users to generate high-quality AI images using natural language prompts. It features user authentication, a credit system, and Razorpay integration (demo mode).</p>
 
-  <blockquote><strong>🚀 This project demonstrates full-stack skills including auth, API integration, payment flow, and React Context management — great for showcasing to recruiters.</strong></blockquote>
-
   <h2>🚀 Features</h2>
   <ul>
     <li>🔐 <strong>User Authentication:</strong> Register/login with JWT tokens.</li>
